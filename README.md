@@ -1,4 +1,4 @@
- DBMS-MYSQL-IT
+ ADBMS-MONGODB-IT
 
 ## Made by
 - [Yash.K](https://github.com/yxsh7)
