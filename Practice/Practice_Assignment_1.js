@@ -80,10 +80,6 @@ db.Project_Data.countDocuments()
  
  
   
-db.Project_Data.find({Budget:null})
-  
-db.Project_Data.countDocuments()
-  
   
   
   
